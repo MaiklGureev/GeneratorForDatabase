@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratorForDatabase", "GeneratorDataForBase\GeneratorForDatabase.csproj", "{C16F7047-20DD-4FDC-B130-07A81391073A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6CF0F95F-4EDD-4CB3-B7D2-659AB1E577C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C16F7047-20DD-4FDC-B130-07A81391073A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16F7047-20DD-4FDC-B130-07A81391073A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16F7047-20DD-4FDC-B130-07A81391073A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16F7047-20DD-4FDC-B130-07A81391073A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A16067C6-3E56-41C0-8713-FF5EDBC5643D}
+	EndGlobalSection
+EndGlobal

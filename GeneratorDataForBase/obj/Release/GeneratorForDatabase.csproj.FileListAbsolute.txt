@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\GeneratorForDatabase\GeneratorDataForBase\bin\Release\GeneratorForDatabase.exe
+C:\Users\Admin\source\repos\GeneratorForDatabase\GeneratorDataForBase\bin\Release\GeneratorForDatabase.pdb
+C:\Users\Admin\source\repos\GeneratorForDatabase\GeneratorDataForBase\obj\Release\GeneratorForDatabase.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\GeneratorForDatabase\GeneratorDataForBase\obj\Release\GeneratorDataForBase.AuthorizationForm.resources
+C:\Users\Admin\source\repos\GeneratorForDatabase\GeneratorDataForBase\obj\Release\GeneratorDataForBase.GeneratorData.resources
+C:\Users\Admin\source\repos\GeneratorForDatabase\GeneratorDataForBase\obj\Release\GeneratorForDatabase.Properties.Resources.resources
+C:\Users\Admin\source\repos\GeneratorForDatabase\GeneratorDataForBase\obj\Release\GeneratorForDatabase.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GeneratorForDatabase\GeneratorDataForBase\obj\Release\GeneratorForDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GeneratorForDatabase\GeneratorDataForBase\obj\Release\GeneratorForDatabase.exe
+C:\Users\Admin\source\repos\GeneratorForDatabase\GeneratorDataForBase\obj\Release\GeneratorForDatabase.pdb
